@@ -222,6 +222,3 @@ The application will be available at `http://localhost:3000`
    - Use store owner credentials
    - View the dashboard with ratings submitted by users
 
-## License
-
-MIT
